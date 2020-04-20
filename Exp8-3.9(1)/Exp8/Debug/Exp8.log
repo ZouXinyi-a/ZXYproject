@@ -1,11 +1,40 @@
-﻿生成启动时间为 2020/3/24/星期二 15:36:01。
-     1>项目“D:\visual 实验\Exp8-3.9(1)\Exp8\Exp8.vcxproj”在节点 2 上(ClCompile 个目标)。
-     1>ClCompile:
-         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\Exp8.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Exp8View.cpp
+﻿生成启动时间为 2020/4/20/星期一 15:06:13。
+     1>项目“D:\ZXYproject\Exp8-3.9(1)\Exp8\Exp8.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\Exp8.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Debug\Exp8.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\Exp8.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Exp8.cpp Exp8Doc.cpp Exp8View.cpp MainFrm.cpp
+         MainFrm.cpp
+         Exp8Doc.cpp
+         Exp8.cpp
+         正在生成代码...
          正在跳过...(未检测到相关更改)
          Exp8View.cpp
-     1>已完成生成项目“D:\visual 实验\Exp8-3.9(1)\Exp8\Exp8.vcxproj”(ClCompile 个目标)的操作。
+       ResourceCompile:
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0804" /IDebug\ /nologo /fo"Debug\Exp8.res" Exp8.rc 
+       ManifestResourceCompile:
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\Exp8.exe.embed.manifest.res" Debug\Exp8_manifest.rc 
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\ZXYproject\Exp8-3.9(1)\Debug\Exp8.exe" /INCREMENTAL /NOLOGO /MANIFEST /ManifestFile:"Debug\Exp8.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\ZXYproject\Exp8-3.9(1)\Debug\Exp8.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\ZXYproject\Exp8-3.9(1)\Debug\Exp8.lib" /MACHINE:X86 Debug\Exp8.res
+         Debug\Exp8.exe.embed.manifest.res
+         Debug\Exp8.obj
+         Debug\Exp8Doc.obj
+         Debug\Exp8View.obj
+         Debug\MainFrm.obj
+         Debug\stdafx.obj
+       Manifest:
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\Exp8.exe.embed.manifest" /manifest Debug\Exp8.exe.intermediate.manifest "c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+         所有输出均为最新。
+       LinkEmbedManifest:
+         所有输出均为最新。
+         Exp8.vcxproj -> D:\ZXYproject\Exp8-3.9(1)\Debug\Exp8.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\Exp8.unsuccessfulbuild”。
+         正在对“Debug\Exp8.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“D:\ZXYproject\Exp8-3.9(1)\Exp8\Exp8.vcxproj”(build 个目标)的操作。
 
 生成成功。
 
-已用时间 00:00:00.37
+已用时间 00:00:07.11
