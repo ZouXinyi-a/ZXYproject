@@ -104,6 +104,6 @@ void CMFC302£¨3£©View::OnLButtonDown(UINT nFlags, CPoint point)
 	this->GetClientRect(&cr);
 	//this->Invalidate();
 	CClientDC dc(this);
-	dc.Ellipse(cr);
+	dc.Rectangle(cr);
 	CView::OnLButtonDown(nFlags, point);
 }
