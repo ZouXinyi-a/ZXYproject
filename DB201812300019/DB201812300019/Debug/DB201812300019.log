@@ -1,0 +1,39 @@
+﻿生成启动时间为 2020/5/05/星期二 15:27:50。
+     1>项目“D:\ZXYproject\DB201812300019\DB201812300019\DB201812300019.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\DB201812300019.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         所有输出均为最新。
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\DB201812300019.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt DB201812300019.cpp DB201812300019Doc.cpp DB201812300019Set.cpp MainFrm.cpp
+         正在跳过...(未检测到相关更改)
+         MainFrm.cpp
+         DB201812300019Set.cpp
+         DB201812300019Doc.cpp
+         DB201812300019.cpp
+       ResourceCompile:
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0804" /IDebug\ /nologo /fo"Debug\DB201812300019.res" DB201812300019.rc 
+       ManifestResourceCompile:
+         所有输出均为最新。
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\ZXYproject\DB201812300019\Debug\DB201812300019.exe" /INCREMENTAL /NOLOGO odbc32.lib /MANIFEST /ManifestFile:"Debug\DB201812300019.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\ZXYproject\DB201812300019\Debug\DB201812300019.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\ZXYproject\DB201812300019\Debug\DB201812300019.lib" /MACHINE:X86 Debug\DB201812300019.res
+         Debug\DB201812300019.exe.embed.manifest.res
+         Debug\DB201812300019.obj
+         Debug\DB201812300019Doc.obj
+         Debug\DB201812300019Set.obj
+         Debug\DB201812300019View.obj
+         Debug\MainFrm.obj
+         Debug\stdafx.obj
+       Manifest:
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\DB201812300019.exe.embed.manifest" /manifest Debug\DB201812300019.exe.intermediate.manifest "c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+         所有输出均为最新。
+       LinkEmbedManifest:
+         所有输出均为最新。
+         DB201812300019.vcxproj -> D:\ZXYproject\DB201812300019\Debug\DB201812300019.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\DB201812300019.unsuccessfulbuild”。
+         正在对“Debug\DB201812300019.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“D:\ZXYproject\DB201812300019\DB201812300019\DB201812300019.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.33
